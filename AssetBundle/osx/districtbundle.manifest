@@ -1,0 +1,130 @@
+ManifestFileVersion: 0
+CRC: 1186099751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6fb971a9c26fdd99bbfb568656acba1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 740a0a870447ffa86394762c78c762f3
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b743370ac3e4ec2a1668f5455a8ef8a, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b10e832a32d2d14facd8a3f489ee8d6, type: 3}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e4240873631f724496efec97d7151b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8262e4a8322117f4da079921eaa72834, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 37c44bc94a9a7f241b5b552f3ff89458, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ca76dd9ad6eb204c9b0481aece34497, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85c534b3c1560544b09d0996dfeba84, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6bca58eb07ad66b498a2f158bcb13225, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c600592efa0cf25479655321bf4fb08a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0923373e76e77402c9c53a2f1250ad3e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Workspace/_Materials/granary_purple.mat
+- Assets/Workspace/_Materials/largehousetex_blue.mat
+- Assets/Workspace/Building.shader
+- Assets/Workspace/_Materials/largehousetex_orange.mat
+- Assets/Workspace/_Textures/largehousetex_default.png
+- Assets/Workspace/_Materials/granary_red.mat
+- Assets/Workspace/_Materials/largehousetex_default_template.mat
+- Assets/Workspace/DistrictBuilding.shader
+- Assets/Workspace/_Materials/largehousetex_green.mat
+- Assets/Workspace/_Materials/largehousetex_purple.mat
+- Assets/Workspace/_Materials/largehousetex_red.mat
+- Assets/Workspace/_Materials/largehousetex_default.mat
+- Assets/Workspace/District.prefab
+- Assets/Workspace/_Textures/largehousetex_mask.png
+- Assets/Workspace/_Materials/granary_default.mat
+- Assets/Workspace/_Materials/largehousetex_yellow.mat
+- Assets/Workspace/GenerateSVTexture.compute
+- Assets/Workspace/_Materials/granary_orange.mat
+- Assets/Workspace/_Materials/granary_green.mat
+- Assets/Workspace/_Materials/granary_yellow.mat
+- Assets/Workspace/_Materials/granary_blue.mat
+Dependencies: []
